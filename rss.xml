@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kensor81]]></title>
+        <description><![CDATA[kensor81]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 20:23:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi The Grid! What are you and what can you do for me?</p>]]></description>
+            <link>undefinedhi-the-grid-what-are-you-and-what-can-you-do-for-me/index.html</link>
+            <guid isPermaLink="false">d6925b2d-4294-42e8-ab9a-2507809e9773</guid>
+            <pubDate>Sun, 01 May 2016 20:23:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
