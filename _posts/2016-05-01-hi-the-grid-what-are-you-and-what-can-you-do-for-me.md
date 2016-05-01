@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hei "The Grid"! Kva er du og kva kan du gjera for meg?'
-datePublished: '2016-05-01T20:57:45.544Z'
-dateModified: '2016-05-01T20:57:31.784Z'
+datePublished: '2016-05-01T20:58:42.420Z'
+dateModified: '2016-05-01T20:58:14.170Z'
 title: 'Dette er meg!'
 author:
   - name: Kenneth Sørensen
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: hi-the-grid-what-are-you-and-what-can-you-do-for-me/index.html
 _type: Article
 
