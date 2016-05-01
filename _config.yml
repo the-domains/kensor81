@@ -1,0 +1,28 @@
+name: kensor81
+favicon: null
+layout_spectrum: 0.024655507178977132
+typography_spectrum: 0.5593225581105798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3825383698567748
+  lightness: 0.31116965087130666
+  saturation: 0.2700445505324751
+  rhythmicContrast: 0.8128690565936267
+purpose: []
