@@ -4,7 +4,7 @@
         <description><![CDATA[kensor81]]></description>
         <link>https://thegrid.ai/kensor81/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 21:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 22:43:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kensor81/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hei "The Grid"!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kensor81/hei-the-grid/index.html</link>
             <guid isPermaLink="false">25b0fb63-e59c-4220-82d8-9da225c29baf</guid>
             <pubDate>Sun, 01 May 2016 21:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NRK TV - Se Trygdekontoret]]></title>
+            <description><![CDATA[<article><h1>NRK TV - Se Trygdekontoret</h1><p>Norsk debattprogram. Det er duket for både glimt og rusk i øyet, lun prat og blodig alvor når Thomas Seltzer og kveldens saksbehandlere klemmer hardt på samtidens kaviartube. (5:8)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7128188c3a2381f1385f301b7b74362957da8d7a.jpg"></article>]]></description>
+            <link>https://tv.nrk.no/serie/trygdekontoret/MUHH46000516/sesong-10/episode-5</link>
+            <guid isPermaLink="false">d596d7eb-f079-44d7-87f7-6b4457dc9d50</guid>
+            <pubDate>Sun, 01 May 2016 22:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
