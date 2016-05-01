@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hei "The Grid"! Kva er du og kva kan du gjera for meg?'
-datePublished: '2016-05-01T20:57:04.336Z'
-dateModified: '2016-05-01T20:56:44.463Z'
+datePublished: '2016-05-01T20:57:45.544Z'
+dateModified: '2016-05-01T20:57:31.784Z'
 title: 'Dette er meg!'
 author:
   - name: Kenneth Sørensen
