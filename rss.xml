@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kensor81]]></title>
         <description><![CDATA[kensor81]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kensor81/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 21:03:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 21:08:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kensor81/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hei "The Grid"!]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a248690d-d7d2-45fb-938b-132a11d6e446.jpg" alt="Dette er bilde av meg, Kenneth S&oslash;rensen" title="">]]></description>
-            <link>undefinedhei-the-grid/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1326109398b969c64d0243ddafab220d0a2d88a3.jpg" alt="Dette er bilde av meg, Kenneth S&oslash;rensen" title="">]]></description>
+            <link>https://thegrid.ai/kensor81/hei-the-grid/index.html</link>
             <guid isPermaLink="false">25b0fb63-e59c-4220-82d8-9da225c29baf</guid>
-            <pubDate>Sun, 01 May 2016 21:03:06 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 21:08:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
